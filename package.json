@@ -1,4 +1,15 @@
 {
+  "name": "estancovalora",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'No build needed' "
+  },
+  "dependencies": {
+    "serve": "^14.0.0"
+  }
+}
+{
   "name": "estancovalora---valoración-de-expendedurías",
   "private": true,
   "version": "0.0.0",
